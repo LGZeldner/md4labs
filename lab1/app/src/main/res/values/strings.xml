@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Игра в кости</string>
+    <string name="about">Задача - набрать первым 100 очков. Если выпадают одинаковые кости - кидаете еще раз</string>
+    <string name="button">Бросить кости</string>
+    <string name="cube1">0</string>
+    <string name="cube2">0</string>
+    <string name="you">У вас:</string>
+    <string name="your_points">0</string>
+    <string name="opponent">У противника:</string>
+    <string name="opponent_points">0</string>
+    <string name="ywin">Вы победили!</string>
+    <string name="ylose">Вы проиграли</string>
+</resources>

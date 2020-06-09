@@ -1,0 +1,11 @@
+<resources>
+    <string name="widget_name">Напоминания</string>
+    <string name="widget_text">Текст напоминания</string>
+    <string name="edit_text">Введите текст напоминания</string>
+    <string name="button_save">Сохранить</string>
+    <string name="color_choice">Выберите цвет</string>
+    <string name="sepia_color_choice">Сепия</string>
+    <string name="white_color_choice">Белый</string>
+    <string name="grey_color_choice">Серый</string>
+    <string name="config">Настройки виджета</string>
+</resources>
